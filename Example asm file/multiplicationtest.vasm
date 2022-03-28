@@ -1,0 +1,19 @@
+mov.m #0x6,R13  ; Multiplies 6 x 6 and stores result in first memory address
+mov.m #0x6,r14
+mov.m #128,r15
+
+clr r12
+mloop: 
+rra.m r14
+jnc (noadd)
+
+add.m r13,r12
+
+noadd:
+rla r13
+dec r15
+jnz (mloop)
+
+mov.m r12,&0
+
+stop
