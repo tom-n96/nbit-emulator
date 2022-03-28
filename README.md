@@ -1,5 +1,6 @@
 # nbit-emulator
-Proof of concept emulation of a RISC cpu with adjustable n-bit arithmetic.<br><br>
+Proof of concept emulation of a RISC cpu with adjustable n-bit arithmetic.<br>
+
 This is the C# port of my previous project. Performance is not great on this platform, but optimization will come in the future.
 
 ALU logic is based off the 74181.
