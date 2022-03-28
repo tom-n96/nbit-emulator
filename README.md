@@ -21,7 +21,7 @@ GUI is a WIP and doesn't yet have much utility besides editing code and a second
 <br>
 <h2>Known Issues/To-do</h2>
 <ul>
-  <li>Performance - GUI is single threaded and freezes when running. Also becomes unresponsive when high bit modes are selected. </li>
+  <li>Performance - GUI is single threaded and freezes when running. CPU also becomes unresponsive when high bit modes are selected. Something is optimized very poorly for C# and needs to be identified. </li>
   <li>Hex Rollover - the way C#'s big integer parsing works causes integers to roll over differently than the original project. May or may not be an issue, but consistency between the projects is desirable.</li>
   <li>GUI isn't great - need to finish up the GUI and make it useful.</li>
 </ul> 
