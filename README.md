@@ -24,5 +24,6 @@ GUI is a WIP and doesn't yet have much utility besides editing code and a second
 <ul>
   <li>Performance - GUI is single threaded and freezes when running. CPU also becomes unresponsive when high bit modes are selected. Something is optimized very poorly for C# and needs to be identified. </li>
   <li>Hex Rollover - the way C#'s big integer parsing works causes integers to roll over differently than the original project. May or may not be an issue, but consistency between the projects is desirable.</li>
+  <li>Memory Addressing - Memory is not addressable in the n-bit space at the moment and is confined to about 4 gb. This means only the CPU instructions benefit from the n-bit configuration.</li>
   <li>GUI isn't great - need to finish up the GUI and make it useful.</li>
 </ul> 
