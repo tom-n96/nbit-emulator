@@ -1,0 +1,12 @@
+C:\Users\arept\source\repos\Emulator\Emulator\obj\Debug\Emulator.csproj.AssemblyReference.cache
+C:\Users\arept\source\repos\Emulator\Emulator\obj\Debug\Emulator.Splash.resources
+C:\Users\arept\source\repos\Emulator\Emulator\obj\Debug\Emulator.MainWindow.resources
+C:\Users\arept\source\repos\Emulator\Emulator\obj\Debug\Emulator.Properties.Resources.resources
+C:\Users\arept\source\repos\Emulator\Emulator\obj\Debug\Emulator.csproj.GenerateResource.cache
+C:\Users\arept\source\repos\Emulator\Emulator\obj\Debug\Emulator.csproj.CoreCompileInputs.cache
+C:\Users\arept\source\repos\Emulator\Emulator\bin\Debug\Emulator.exe.config
+C:\Users\arept\source\repos\Emulator\Emulator\bin\Debug\Emulator.exe
+C:\Users\arept\source\repos\Emulator\Emulator\bin\Debug\Emulator.pdb
+C:\Users\arept\source\repos\Emulator\Emulator\obj\Debug\Emulator.exe
+C:\Users\arept\source\repos\Emulator\Emulator\obj\Debug\Emulator.pdb
+C:\Users\arept\source\repos\Emulator\Emulator\obj\Debug\Emulator.MessagePopup.resources
