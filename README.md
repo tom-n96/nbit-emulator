@@ -4,7 +4,7 @@ Proof of concept emulation of a RISC cpu with adjustable n-bit arithmetic.<br>
 This is the C# port of my previous project. Performance is not great on this platform, but optimization will come in the future.
 
 ALU logic is based off the 74181.
-CPU instruction set is based off MSP430 logic, with byte, word, and max addressing.
+CPU instruction set is based off MSP430 logic, with byte, word, doubleword, quadword, and max addressing.
 <h2>CPU Operations</h2>
 <h3>Operations</h3>
 The CPU Instruction set is mostly identical to the TI MSP430 instruction set. Code intended for the MSP430 may assemble, but binary thats been assembled for the MSP430 most likely won't work. This is not intended to be an emulation of the MSP430 itself, so there is no guarantee that MSP430 programs will run. 
